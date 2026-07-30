@@ -1,0 +1,6 @@
+{
+  "name": "Neural OS V2.1",
+  "description": "Futuristic AI Voice & Cybernetic Neural Interface powered by Gemini AI with live speech synthesis, system metrics, satellite telematics, interactive terminal, and neural diagnostics.",
+  "requestFramePermissions": ["microphone", "geolocation", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
